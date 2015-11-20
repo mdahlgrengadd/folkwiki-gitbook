@@ -1,3 +1,7 @@
+
+
+testerwt wertwe rtw  {%abc%} "Em" gfed"A7" fed^c |"Dm" d8 |"Dm" D2df"Dm/F" a4 |"Gm" gfed"A" A2^ce |"Gm" g8/3 b4/3"A7" egfe | %9{%endabc%} asdfasdfa asdf asdf asdf asdfa asdf asdf asdf sadf 
+
 {%abc%}
 X:1
 T:01428 - Polonäs ur Andreas Dahlgrens notbok nr 44.mid
