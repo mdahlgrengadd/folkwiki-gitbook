@@ -1,7 +1,3 @@
-# Brynjepolska efter John-Erik Mattsson
-
-
-
 {%abc%}
 X:1
 T:01428 - Polonäs ur Andreas Dahlgrens notbok nr 44.mid
