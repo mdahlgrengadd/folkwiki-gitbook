@@ -1,1 +1,3 @@
-{}
+{
+    "plugins": ["abc2svg"]
+}
