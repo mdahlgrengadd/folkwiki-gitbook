@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Brynjepolska efter John-Erik Mattsson](chapter1.md)
