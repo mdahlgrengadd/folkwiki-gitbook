@@ -2,8 +2,8 @@
     "plugins": ["abc2svg@0.0.6", "autocover"],
     "pluginsConfig": {
         "autocover": {
-            "title": "My Book",
-            "author": "Author",
+            "title": "FolkWiki Collection",
+            "author": "Martin Dahlgren",
             "font": {
                 "size": null,
                 "family": "Impact",
