@@ -1,5 +1,5 @@
 {
-    "plugins": ["abc2svg@0.0.6", "autocover"],
+    "plugins": ["abc2svg", "autocover"],
     "pluginsConfig": {
         "autocover": {
             "title": "FolkWiki Collection",
