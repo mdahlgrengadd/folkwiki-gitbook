@@ -1,7 +1,5 @@
 # Your Book Name
 
-  * [Chapter 1](/chapter1.md)
-- [Pages](/pages/README.md)
     * [00001 Polska Efter Byss Kalle Nr 6](/pages/00001 - Polska efter Byss-Kalle (nr 6).md)
     * [00002 Larkan Polska Efter Byss Kalle Nr 5](/pages/00002 - Lärkan - Polska efter Byss-Kalle (nr 5).md)
     * [00003 Klockstapelsvalsen Efter Byss Kalle Nr 57](/pages/00003 - Klockstapelsvalsen efter Byss-Kalle (nr 57).md)
