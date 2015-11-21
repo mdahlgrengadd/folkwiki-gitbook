@@ -1,0 +1,19 @@
+# Polonäs ur Kumlins notsamling (nr 199)
+
+{%abc%}
+X:199
+T:Polonäs
+T:ur Kumlins notsamling (nr 199)
+B:Kumlins notsamling, nr 199
+B:http://www.smus.se/earkiv/fmk/browselarge.php?lang=sw&katalogid=Ma+4&bildnr=00039
+O:Närke
+R:Slängpolska
+N:Liknar [[Musik/1954|Carl XIIs marsch vid Narva]] en aning.
+Z:Nils Liberg
+M:3/4
+L:1/16
+K:Dm
+e2>f2 d2>e2 gfed | d2^cd efed c2A2 | e2>a2 e2>f2 d2>f2 | eae^c d2A2 F2D2 ::
+a2fg a2fg a2fg | a2a2 bag^f g4 | g2ef g2ef g2ef | g2g2 agfe f4 |
+e2>f2 d2>e2 gfed | d2^cd efed c2A2 | e2>a2 e2>f2 d2>f2 | eae^c d2A2 F2D2 :| 
+{%endabc%}

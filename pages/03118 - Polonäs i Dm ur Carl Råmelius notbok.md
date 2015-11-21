@@ -1,0 +1,18 @@
+# Polonäs i Dm ur Carl Råmelius notbok
+
+{%abc%}
+X:1
+R:Slängpolska
+T:Polonäs i Dm ur Carl Råmelius notbok
+O:Rånhammar, Närke
+N:Notsamlingen är från 1774. Återställningstecknet i första takten är inte utskrivet i originalet. I originalnoterna finns även en andrastämma.
+M:3/4
+L:1/16  
+K:Dm
+Z:Nils L 
+B: [[http://www.samlingarna.sormlandsspel.se/wp-content/uploads/2013/04/ramelius_carl.pdf|Carl Råmelius notbok]] (pdf) nr 56 sid 19
+Fa^ga E=gfe f4 | FEdc BAGF EGFD | A,2^CE A2E2 F2D2 | A,^CDF AGFE F4 |
+FEag FEgf edag | fed^c d4 D4 :: fFEF CEGA B4 | Acbg a2f2 e2g2 |
+dBbg a2f2 e2"^f?"g2 | agfe f4 F4 | fed^c dbag agfe | fdba gfed ^c2A2 |   
+FEag FEgf edag | fed^c d4 D4 :|    
+{%endabc%}

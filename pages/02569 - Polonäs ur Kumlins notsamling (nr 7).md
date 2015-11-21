@@ -1,0 +1,20 @@
+# Polonäs ur Kumlins notsamling (nr 7)
+
+{%abc%}
+X:7
+T:Polonäs
+T:ur Kumlins notsamling (nr 7)
+B:Kumlins notsamling, nr 7
+B:http://www.smus.se/earkiv/fmk/browselarge.php?lang=sw&katalogid=Ma+4&bildnr=00015
+O:Närke
+R:Slängpolska
+Z:Nils Liberg
+M:3/4
+L:1/16
+K:Dm
+D2DE F2FG A2D2 | D2DE F2FG A4 | d2^c2 d2f2 e2d2 | ^c2ec A8 |
+(d2>=c2) (c2>B2) (B2>A2) | (A2>G2) (G2>F2) (F2>E2) | (D2FA) (D2GB) (D2^cd) | (fed^c) d4 D4 ::
+K:F
+F2FG A2AB =c2F2 | F2FG A2AB c4 | c2de f2a2 g2f2 | e2fg c8 |
+(f2>e2) (e2>d2) (d2>c2) | (c2>B2) (B2>A2) (A2>G2) | (A2cf) d2ef c2f2 | agfe f4 F4 :|
+{%endabc%}

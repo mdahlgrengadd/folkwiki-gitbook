@@ -1,0 +1,21 @@
+# Polonäs i D-Dm efter Ruben Thollin
+
+{%abc%}
+X:10
+T:Polonäs i D/Dm efter Ruben Thollin 
+S:efter Ruben Thollin
+B:http://www.smus.se/earkiv/fmk/browselarge.php?lang=sw&katalogid=MMD+68&bildnr=00005
+R:Slängpolska
+O:Hallsberg, Närke
+Z:Nils L
+L:1/16
+M:3/4
+K:D
+DFAF DFAF DFAF | A2d2 efge f2a2 | DFAF DFAF DFAF | A2d2 efge f2a2 | 
+a4 gfef g2e2 | Acec Acec Acec | edcB ABcd efge | f4 f2f2 f2f2 | 
+gfed cdef gabg | fedc e2d2 d4 :: \
+K:Dm
+a4 a2ba g2ag | f2gf ed^cd e2c2 | 
+A^cec Acec Acec | g2ag fede f2e2 | a4 a2ba g2ag | f2gf ed^cd e2c2 | 
+d^cde fgfe dcde | ge^ce d4 z4 :| 
+{%endabc%}

@@ -1,0 +1,28 @@
+# Polonäs ur Andreas Dahlgrens notbok nr 18 med variationer
+
+{%abc%}
+X: 18
+T: Polonäs ur Andreas Dahlgrens notbok nr 18
+T: med variationer
+S: efter Andreas Dahlgren
+O: Fågelvik, Tryserum, Småland
+R: Slängpolska
+B: http://www.smus.se/earkiv/fmk/browselarge.php?lang=sw&katalogid=Ma+7&bildnr=00010
+B: Andreas Dahlgrens Notbok
+M: 3/4
+L: 1/16
+K: D
+|:d2de d2A2d2f2|e2ef e2A2e2g2|f2fg f2a2g2f2|gfef e8|
+d2de d2A2d2f2|e2ef e2A2e2g2|f2a2g2f2e2d2|fedc d4 D4:|
+|:a2ab a2f2a2f2|g2ga g2e2g2e2|f2fg f2a2g2f2|gfef e8|
+dedc dABc defd|efed eAef efge|fefg a2^a2 bgfe|afed gedc d4:|
+|:dedc dABc defd|efed eAef efge|fefg afga bgfe|gfed eBcd dcBA|
+dedc dABc defd|efed eAef efge|fefg afed bgfe|afed gedc d4:|
+|:abag fgfe fgaf|gagf efed efge|fefg afga bagf|gfe^d eBc=d dcBA|
+dedc dABc defd|efed eAef efge|fefg afed bgfe|afed gedc d4:|
+|:zAFA DAFA dAfd|eAcA EAcA eAge|fdAd fdaf bagf|gfe^d eBc=d dcBA|
+dAFA DAFA dAfd|eAcA EAcA eAge|fdAd bagf gfed|cdec d8:|
+|:afdf Afdf afd'a|gece Aece gee'g|fgbc' d'abc' d'abc'|d'2[fa]2[eg]2[df]2 [ce]4|
+dAFA DAFA dAfd|eAcA EAcA eAge|fdge fdge fdec|d12 :|
+{%endabc%}
+
