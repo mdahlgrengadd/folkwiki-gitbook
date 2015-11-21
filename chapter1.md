@@ -4,7 +4,7 @@
 X:1
 T:01428 - Polonäs ur Andreas Dahlgrens notbok nr 44.mid
 %%score 1 2 3 4 5
-%%writefields T false %BCDFGHNORSTWwXZ
+%%writefields BCDFGHNORSTWwXZ true
 L:1/4
 Q:1/4=85
 M:2/4
