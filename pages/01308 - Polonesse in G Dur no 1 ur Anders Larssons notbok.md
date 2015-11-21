@@ -36,7 +36,7 @@ Z:2007-09-05
 O:Olof Larsson, Kumla, Närke
 N:Se även [[Musik/352|+]] och [[Musik/2445|+]]
 M:3/4
-L:1/
+L:1/16
 K:G
 dg gf fe|fa/2f/2 d3c|BA/2B/2 cB AG|B/2A/2G/2F/2 GD B,G,|
 dg gf fe|fa/2f/2 d3c|BA/2B/2 cB AG|AF F2 G2::
