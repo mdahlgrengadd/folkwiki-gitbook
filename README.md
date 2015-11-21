@@ -1,5 +1,3 @@
-FolkWiki Book
-=======
 
 {%abc%}
 X:6
