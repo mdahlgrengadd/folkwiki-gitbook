@@ -2,10 +2,6 @@
 
   * [Chapter 1](/chapter1.md)
 - [Pages](/pages/README.md)
-    * [.!2003!00479 - Polska efter Lars Orre Älvdalen, SvL 615](/pages/.!2003!00479 - Polska efter Lars Orre Älvdalen, SvL 615.md)
-    * [.!92942!00164 - Amerikatur nr 2](/pages/.!92942!00164 - Amerikatur nr 2.md)
-    * [.!93784!00105 - Vals efter Vilhelm Hedlund](/pages/.!93784!00105 - Vals efter Vilhelm Hedlund.md)
-    * [.!98024!00103 - Drömmaren-The drummer](/pages/.!98024!00103 - Drömmaren-The drummer.md)
     * [00001 Polska Efter Byss Kalle Nr 6](/pages/00001 - Polska efter Byss-Kalle (nr 6).md)
     * [00002 Larkan Polska Efter Byss Kalle Nr 5](/pages/00002 - Lärkan - Polska efter Byss-Kalle (nr 5).md)
     * [00003 Klockstapelsvalsen Efter Byss Kalle Nr 57](/pages/00003 - Klockstapelsvalsen efter Byss-Kalle (nr 57).md)
