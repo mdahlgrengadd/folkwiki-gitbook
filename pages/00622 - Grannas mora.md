@@ -1,0 +1,22 @@
+# Grannas mora
+
+{%abc%}
+X:1
+T:Grannas mora
+S:efter John Enninger
+O:Höör, Skåne
+R:Svingedans
+Z:Patrik Månsson, 2008-10-30
+B:Omtyckta Skånska allspelslåtar
+N:[[http://www.smus.se/earkiv/fmk/browselarge.php?lang=sw&katalogid=Ske+45&bildnr=00042||SMUS]]
+M:3/4
+L:1/8
+K:G
+| G>B d2 e2 | d>B c>A B>G | G>B d>d e>c | A>F G2 z2 |
+w: Gran-nas mor-a tal-te des-sa o-la om ja' ha-de mi' Jo-han-na gjutt
+G>B d2 e2 | d>B c>A B>G | G>B d>d e>c | A>F G2 z2 |
+w: Hej me Sa-ra e de ing-en fa-ra för ho' e' så gruf-ligt kry o sipp
+|: G>B B>c A2 | F>G E>F D2 | G>B d>d e>c | A>F G2 z2 :|
+w:Än gör ho' så här än gör ho' så der grym-ma gos-sar-na de si der-på
+{%endabc%}
+

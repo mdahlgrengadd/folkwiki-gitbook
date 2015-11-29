@@ -1,0 +1,24 @@
+# Polonas ur Kumlins notsamling (nr 10)
+
+{%abc%}
+X:10
+T:Polonäs
+T:ur Kumlins notsamling (nr 10)
+B:Kumlins notsamling, nr 10
+B:http://www.smus.se/earkiv/fmk/browselarge.php?lang=sw&katalogid=Ma+4&bildnr=00015
+B:Jämför [[http://www.smus.se/earkiv/fmk/browselarge.php?lang=sw&katalogid=Ma+17&bildnr=00012|SMUS - katalog Ma17 bild 12]] nr 33
+B: Jämför [[http://www.samlingarna.sormlandsspel.se/wp-content/uploads/2013/04/ramelius_carl.pdf|Carl Råmelius notbok]] (pdf) nr 35 sid 11
+O:Närke
+R:Slängpolska
+Z:Nils Liberg
+M:3/4
+L:1/16
+K:F
+[c4A4] [A4c4] [c4A4] | c2BA B2cd c4 | c2de f2ga A2Bc | B2dc B2AG F2ED |
+CFAF CFAF CFAF | A2Bc G2AB A2GF | CFAF CFAF CFAF | A2Bc G2AB A2GF|
+Acfe dcBA GFED | C2FE [A,4F4] [A,4F4] :: [e4g4] [e4g4] [g4e4] | g2fe f2ga g4 | 
+geag fedc c=BAG | Gcec Gcec Gcec | e2fg d2ef e2dc | Gcec Gcec Gcec |
+e2fg d2ef e2dc | A2ag f2e2 d2c2 | =BcdB c4 C4 || c2d_e e2dc d4 | d2b2 b2d2 d2cB | 
+c2a2 a2c2 c2BA | BAdc B2AG FEDC | CFAF CFAF CFAF | A2Bc G2AB BAGF | 
+CFAF CFAF CFAF | A2Bc G2AB BAGF | Acfe dcBA GFED | C2FE [F4A,4] [F4A,4] ||
+{%endabc%}

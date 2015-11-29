@@ -1,0 +1,17 @@
+# Polska (allman) Svenska Folkdansar H2 nr 10
+
+{%abc%}
+X:10
+T:Polska (allmän)
+T:Svenska Folkdansar H2 nr 10
+B:Traditioner av Svenska Folkdansar Häfte 2, nr 10
+B:Jämför [[http://www.smus.se/earkiv/fmk/browselarge.php?lang=sw&katalogid=Ma+13a&bildnr=00030|SMUS - katalog Ma13a bild 30]] nr 99 efter [[Personer/Johan Eric Blomgren]]
+R:Polska
+Z:Nils L
+N:I takt åtta står de fyra sista noterna som sextondelar i originalet.
+M:3/4
+L:1/8
+K:G
+D2    G>F GA | TBA/B/ cB AG | F>G A4 | D2 G>F GA | TBA/B/ cB AG | AA G4 ::
+BA/B/ cB  AG | BA/B/  cB AG | F>G A4 | D2 G>F GA | TBA/B/ cB AG | AA G4 :|
+{%endabc%}
