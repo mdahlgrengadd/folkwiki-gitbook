@@ -1,0 +1,20 @@
+# Anglais efter Inga Persdotter (SvL Skane nr. 53)
+
+{%abc%}
+X:53
+T:Anglais efter Inga Persdotter
+T:(SvL Skåne nr. 53)
+R:Engelska
+Z:Jonas Brunskog, 29/6 2008
+O:Dönaberga, Skåne
+S:efter Inga Persdotter
+B:Svenska Låtar Skåne
+B:Omtyckta Skånska Allspelslåtar
+M:2/4
+L:1/16
+K:G
+|:G2DG B2GB|d2ed (cB)AG|F2DF A2DD|(Dc)BA G2z2:|
+|:D2G2 B4|({B}cB)AB (cB)AG|F2A2 d4|(ed)^cd edBG|
+D2G2 B4|({B}cB)AB (cB)AG|F2A2 d2dd|(ec)AF G2z2:|
+{%endabc%}
+

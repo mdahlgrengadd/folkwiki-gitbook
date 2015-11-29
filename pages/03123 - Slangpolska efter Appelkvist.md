@@ -1,0 +1,18 @@
+# Slangpolska efter Appelkvist
+
+{%abc%}
+X:1
+T:Slängpolska efter Appelkvist
+R:Slängpolska
+S:Utlärd av Patrik Andersson
+Z:Karin Arén
+O:Stigtomta, Södermanland
+N:Se även [[http://www.samlingarna.sormlandsspel.se/wp-content/uploads/2013/08/56_sormlandska_latar1.pdf|56 Sörmländska låtar]] (pdf) nr 14.
+M:3/4
+L:1/8
+K:Gm
+vGg/^f/ Lg(d {cd}c)B | (B/A/)B/c/ dc/B/ [D-A]/D/[D-A]/D/ | B,D/B,/ A,D/A,/ G,D | (B/A/)^F/A/ {^F}G(D {G,A,}B,)D |
+v[G,G]g/^f/ Lg(d {cd}c)B | (B/A/)B/c/ dc/B/ [D-A]/D/[D-A]/D/ | B,D/B,/ A,D/A,/ G,D | (B/A/)^F/A/ {^F}G4 :: 
+v[DB]2 [Fc]2 [Fd]2 | udc/(e/ d/c/)B/A/ [D-B]/D/[D-B]/D/ | v(B/c/)B/A/ G(b a)g | {a}g(^f/g/ f/g/)a/f/ [D-d]/D/[D-d]/D/ | 
+v[G,G]g/^f/ Lg(d {cd}c)B | (B/A/)B/c/ dc/B/ [D-A]/D/[D-A]/D/ | B,D/B,/ A,D/A,/ G,D | (B/A/)^F/A/ {^F}G4 :|
+{%endabc%}
