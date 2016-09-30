@@ -1,6 +1,6 @@
 
 {
-    "plugins": ["abc2svg", "madoko"],
+    "plugins": ["abc2svg"],
     "bookname": "json-config-name",
     "outputfile": "test.md",
     "catalog": "all",
