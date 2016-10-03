@@ -5,7 +5,8 @@
         "-bughooken",
         "-theme-clarity",
         "-theme-comscore",
-        "-theme-bangla"
+        "-theme-bangla",
+        "sellerui"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
