@@ -3,7 +3,7 @@
         "abc2svg",
         "-theme-faq",
         "-bughooken",
-        "-theme-clarity",
+        "theme-clarity",
         "theme-comscore"
     ],
     "bookname": "json-config-name",
