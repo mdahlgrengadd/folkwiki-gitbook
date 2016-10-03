@@ -7,7 +7,7 @@
         "-theme-comscore",
         "-theme-bangla",
         "-sellerui",
-        "maxiang"
+        "-maxiang"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
