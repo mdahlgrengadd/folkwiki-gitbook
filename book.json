@@ -4,7 +4,8 @@
         "-theme-faq",
         "-bughooken",
         "theme-clarity",
-        "theme-comscore"
+        "theme-comscore",
+        "theme-bangla"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
