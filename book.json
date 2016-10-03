@@ -1,7 +1,7 @@
 {
     "plugins": [
         "abc2svg",
-        "theme-faq"
+        "-theme-faq"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
