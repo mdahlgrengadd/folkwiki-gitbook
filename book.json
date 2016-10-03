@@ -1,9 +1,12 @@
-
 {
-    "plugins": ["abc2svg"],
+    "plugins": [
+        "abc2svg",
+        "theme-faq"
+    ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
     "catalog": "all",
-    "ignores": [],  
-    "unchanged": [] 
+    "ignores": [],
+    "unchanged": [],
+    "pluginsConfig": {}
 }
