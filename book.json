@@ -2,7 +2,8 @@
     "plugins": [
         "abc2svg",
         "-theme-faq",
-        "-bughooken"
+        "-bughooken",
+        "theme-clarity"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
