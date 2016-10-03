@@ -6,7 +6,8 @@
         "-theme-clarity",
         "-theme-comscore",
         "-theme-bangla",
-        "-sellerui"
+        "-sellerui",
+        "maxiang"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
