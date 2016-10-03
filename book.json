@@ -6,7 +6,7 @@
         "-theme-clarity",
         "-theme-comscore",
         "-theme-bangla",
-        "sellerui"
+        "-sellerui"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
