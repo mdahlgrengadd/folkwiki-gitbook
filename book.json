@@ -8,7 +8,7 @@
         "-theme-bangla",
         "-sellerui",
         "-maxiang",
-        "-bugtagszh"
+        "bugtagszh"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
