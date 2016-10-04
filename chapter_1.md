@@ -1,16 +1,14 @@
-# Flatland.
+# Polskor.
 ---
-### PART I.
-## THIS WORLD.
-### § I. — Of the Nature of Flatland.
+### Uppland
+## Polska efter Byss-Kalle
+### nr 6
 
 {%abc%}
 X:6
-T:Polska efter Byss-Kalle (nr 6)
 R:Polska
 B:[[Notböcker/57 låtar efter Byss-Kalle]] utgivet av Uplands Spelmansförbund (där det även finns en andrastämma)
 Z:Nils L, 2007-12-14
-O:efter Byss-Kalle, Uppland
 M:3/4
 L:1/16
 K:D
