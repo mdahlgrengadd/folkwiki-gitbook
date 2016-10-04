@@ -1,5 +1,3 @@
-# Chapter 1
-
 <div id="typeset">
 			<div class="section">
 				<h1>Flatland.</h1>
