@@ -9,7 +9,7 @@
         "-sellerui",
         "-maxiang",
         "-bugtagszh",
-        "-theme-default"
+        "theme-default"
     ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
