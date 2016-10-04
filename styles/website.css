@@ -90,4 +90,5 @@ body {
 
 .markdown-section {
     word-wrap: normal !important;
+    line-height: 1.4 !important;
 }
