@@ -74,6 +74,8 @@ body {
 #typeset hr {
 	margin-top: 2em;
 	width: 6em;
+    text-align: center !important;
+    margin: 0 auto !important;
 }
 
 #typeset img {
