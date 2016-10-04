@@ -1,4 +1,6 @@
-# Polska efter Byss-Kalle (nr 6)
+# Chapter 1
+
+## Polska efter Byss-Kalle (nr 6)
 
 {%abc%}
 X:6
@@ -28,4 +30,6 @@ K:D
 A2 | d2>f2 f2d2 d2ef | (gf)ef g2e2 (fe)fg | a2>f2 f2d2 d2ef | g2eg e2ce c2A2 | 
      d2f2 f2d2 d2ef  | (gf)ef g2e2 (fe)fg | a2>f2 d2b2 g2e2 | (dc)Bc e4 d4  :| 
 {%endabc%}
+
+
 

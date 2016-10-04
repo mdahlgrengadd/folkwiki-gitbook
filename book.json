@@ -1,9 +1,19 @@
-
 {
-    "plugins": ["abc2svg"],
+    "plugins": [
+        "abc2svg",
+        "-theme-faq",
+        "-bughooken",
+        "-theme-clarity",
+        "-theme-comscore",
+        "-theme-bangla",
+        "-sellerui",
+        "-maxiang",
+        "bugtagszh"
+    ],
     "bookname": "json-config-name",
     "outputfile": "test.md",
     "catalog": "all",
-    "ignores": [],  
-    "unchanged": [] 
+    "ignores": [],
+    "unchanged": [],
+    "pluginsConfig": {}
 }
