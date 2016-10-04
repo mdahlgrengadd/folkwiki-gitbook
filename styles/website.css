@@ -12,5 +12,5 @@ body {
 }
 
 .markdown-section {
-    word-wrap: none !important;
+    word-wrap: normal !important;
 }
