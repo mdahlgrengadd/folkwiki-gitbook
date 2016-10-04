@@ -1,6 +1,6 @@
 # Chapter 1
 
-		<div id="typeset">
+<div id="typeset">
 			<div class="section">
 				<h1>Flatland.</h1>
 				<hr/>
