@@ -12,13 +12,5 @@ body {
 }
 
 .markdown-section {
-    display: block;
-    word-wrap: none;
-    overflow: hidden;
-    color: #333;
-    line-height: 1.7;
-    text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    -moz-text-size-adjust: 100%;
+    word-wrap: none !important;
 }
