@@ -8,7 +8,7 @@ html {
 
 svg:not(:root) {
     overflow: hidden;
-    margin-left: -100px !important;
+    margin-left: -120px !important;
 }
 
 body {
