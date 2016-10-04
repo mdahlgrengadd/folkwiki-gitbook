@@ -1,8 +1,8 @@
 # Polskor.
 ---
-### Uppland
-## Polska efter Byss-Kalle
-### nr 6
+### Del I.
+## Uppland
+### § 2. — Polska efter Byss-Kalle (nr 6)
 
 {%abc%}
 X:6
