@@ -104,7 +104,7 @@ body {
     overflow: visible !imporant; 
 }
 
-.reset-this {
+.body {
     animation : none;
     animation-delay : 0;
     animation-direction : normal;
