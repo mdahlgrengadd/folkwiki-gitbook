@@ -1,6 +1,5 @@
-<div id="typeset">
-			<div class="section">
-				<h1>Flatland.</h1>
+<div>
+                <h1>Flatland.</h1>
 				<hr/>
 				<h3>PART I.</h3>
 				<h2>THIS WORLD.</h2>
@@ -24,8 +23,8 @@
 				<p>When I was in Spaceland I heard that your sailors have very similar experiences while they traverse your seas and discern some distant island or coast lying on the horizon. The far-off land may have bays, forelands, angles in and out to any number and extent; yet at a distance you see none of these (unless indeed your sun shines bright upon them revealing the projections and retirements by means of light and shade), nothing but a grey unbroken line upon the water.</p>
 
 				<p>Well, that is just what we see when one of our triangular or other acquaintances comes toward us in Flatland. As there is neither sun with us, nor any light of such a kind as to make shadows, we have none of the helps to the sight that you have in Spaceland. If our friend comes closer to us we see his line becomes larger; if he leaves us it becomes smaller: but still he looks like a straight line; be he a Triangle, Square, Pentagon, Hexagon, Circle, what you will — a straight Line he looks and nothing else. You may perhaps ask how under these disadvantageous circumstances we are able to distinguish our friends from one another: but the answer to this very natural question will be more fitly and easily given when I come to describe the inhabitants of Flatland. For the present let me defer this subject, and say a word or two about the climate and houses in our country.</p>
-			</div>
-			<div class="section">
+
+
 				<h3>§ 2. — <span>Of the Climate and Houses in Flatland</span></h3>
 
 				<p>As with you, so also with us, there are four points of the compass North, South, East, and West.</p>
@@ -43,10 +42,8 @@
 				<p>Square and triangular houses are not allowed, and for this reason. The angles of a Square (and still more those of an equilateral Triangle,) being much more pointed than those of a Pentagon, and the lines of inanimate objects (such as houses) being dimmer than the lines of Men and Women, it follows that there is no little danger lest the points of a square or triangular house residence might do serious injury to an inconsiderate or perhaps absent-minded traveller suddenly therefore, running against them: and as early as the eleventh century of our era, triangular houses were universally forbidden by Law, the only exceptions being fortifications, powder-magazines, barracks, and other state buildings, which it is not desirable that the general public should approach without circumspection.</p>
 
 				<p>At this period, square houses were still everywhere permitted, though discouraged by a special tax. But, about three centuries afterwards, the Law decided that in all towns containing a population above ten thousand, the angle of a Pentagon was the smallest house-angle that could be allowed consistently with the public safety. The good sense of the community has seconded the efforts of the Legislature; and now, even in the country, the pentagonal construction has superseded every other. It is only now and then in some very remote and backward agricultural district that an antiquarian may still discover a square house.</p>
-			</div>
-		</div>
 
-
+</div>
 
 ## Polska efter Byss-Kalle (nr 6)
 
