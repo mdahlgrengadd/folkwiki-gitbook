@@ -11,6 +11,10 @@ body {
 	font-family: "Minion Pro", Gentium, "Gentium Basic", "Hoefler Text", Constantia, "Palatino Linotype", Georgia, serif;
 }
 
+.book.font-family-0 {
+  font-family:  "Minion Pro", Gentium, "Gentium Basic", "Hoefler Text", Constantia, "Palatino Linotype", Georgia, serif !important;
+}
+
 #info {
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 0.85em;
